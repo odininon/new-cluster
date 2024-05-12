@@ -1,3 +1,0 @@
----
-providerRegex: ^(talos-1|talos-2)$
-bypassDnsResolution: true

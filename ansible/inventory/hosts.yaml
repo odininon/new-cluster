@@ -1,0 +1,8 @@
+---
+kubernetes:
+  children:
+    controllers:
+      hosts:
+        "k3s-01":
+          ansible_user: "serveradmin"
+          ansible_host: "192.168.3.172"
