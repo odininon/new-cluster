@@ -6,3 +6,9 @@ kubernetes:
         "k3s-01":
           ansible_user: "serveradmin"
           ansible_host: "192.168.3.172"
+        "k3s-02":
+          ansible_user: "serveradmin"
+          ansible_host: "192.168.3.176"
+        "k3s-03":
+          ansible_user: "serveradmin"
+          ansible_host: "192.168.3.155"
